@@ -88,8 +88,6 @@ A investigação do código-fonte revelou que um atacante comprometeu o servidor
 | Arquivo | Descrição |
 |---|---|
 | [tcpdump_traffic_log.pdf](./tcpdump_traffic_log.pdf) | Log de tráfego DNS e HTTP capturado com tcpdump |
-| [How_to_read_the_tcpdump_traffic_log.pdf](./How_to_read_the_tcpdump_traffic_log.pdf) | Guia de interpretação do log tcpdump |
-| [Security_incident_report_exemplar.pdf](./Security_incident_report_exemplar.pdf) | Relatório exemplar de referência |
 
 ---
 
